@@ -1,0 +1,65 @@
+body { 
+    background-color:lavenderblush ;
+}
+
+canvas{
+    width: 50%;
+    height: 40%;
+    border: 1px solid #c3c3c3; 
+}
+
+#mr{
+    background-color: red;
+}
+
+#mg{
+    background-color: gray;
+}
+
+#trgsk{
+    background-color: aqua;
+}
+
+#rbow{
+    background-color: white;
+    color: red;
+}
+
+#blr{
+    background-color: tomato;
+}
+
+input[button]{
+    padding: 0.3em;
+}
+
+#div0{
+    color: red;
+    background-color: lightblue;
+    visibility: hidden;
+    background-color: transparent;
+    float: right;
+}
+
+.button {
+    background-color: cadetblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+#down{
+    background-color: deepskyblue;
+}
+
+.file {
+    display: inline-flex;
+    cursor: pointer;
+
+}
